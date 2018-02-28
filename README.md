@@ -4,17 +4,17 @@ A list of the frameworks, etc I like to work with now / in the future.
 ## Apps
 
 1. https://flutter.io/
-..* Crossplatform UI build by Google
+  * Crossplatform UI build by Google
 2. https://electronjs.org/
-..* Crossplatform native apps powered by web technologies 
+  * Crossplatform native apps powered by web technologies 
 
 ## JS-Frameowrks / Libs
 1. https://vuejs.org/
-..* JavaScript Framework to manipulate DOM
+  * JavaScript Framework to manipulate DOM
 2. https://atomiks.github.io/tippyjs/
-..* Tooltips for everything.
+  * Tooltips for everything.
 3. https://github.com/charliekassel/vuejs-datepicker
-..* vuejs 2 datepicker
+  * vuejs 2 datepicker
 
 
 
